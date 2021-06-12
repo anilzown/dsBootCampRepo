@@ -1,0 +1,8 @@
+Q:what you want to learn in this class and what you are most excited to learn.
+
+A:I want to learn how to to model data, learn algorithms which could be used on the data set to acheive the end results. how to build techniques on finding gaps or security threats in the data streams, apply those to the models and use all in a pipeline with no downtime.
+I am exited that I enrolled in the course and would be able to learn the process of building data sets for analysis. 
+
+
+Q:how the skills you'll learn in this class will help your career.
+A: I keep my self away from data analytics since I am not completely familiar with all the process which are involved in building it ready for consumption. I hope I will be able to learn all that and will be able to use my skills in building data models for use in my current role with healthcare. I am equally exited to build some data models for use in financial markets.
